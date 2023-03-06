@@ -6,4 +6,4 @@ The Factbook contains demographic information like the following:
 * population_growth — the annual population growth rate, as a percentage.
 * area — the total land and water area.
 
-This project was carried our with the jupyter notebook.
+This project was carried out with the jupyter notebook.
